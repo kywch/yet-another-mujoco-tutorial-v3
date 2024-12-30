@@ -1,0 +1,13 @@
+numpy
+scipy
+torch
+cvxpy
+shapely
+matplotlib
+mujoco==3.1.6
+glfw
+opencv-python
+imageio
+pyyaml
+mujoco-python-viewer
+mediapy
